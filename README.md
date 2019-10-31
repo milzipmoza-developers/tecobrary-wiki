@@ -1,6 +1,6 @@
 # 테코브러리(TECOBRARY) 위키
 
-![Tecobrary](./img/tecobrary_logo "TECOBRARY_LOGO")
+![Tecobrary](./img/tecobrary_logo.png "TECOBRARY_LOGO")
 
 > 테코브러리는 Woowahan Tech Course(우테코) 와 Library(도서관)의 합성어로 우아한테크코스 크루 [박우빈(닉)](https://www.wbluke.com/)님께서 지어주신 소중한 이름입니다.
 
