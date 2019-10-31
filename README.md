@@ -2,7 +2,7 @@
 
 ![Tecobrary](./img/tecobrary_logo.png "TECOBRARY_LOGO")
 
-> 테코브러리는 Woowahan Tech Course(우테코) 와 Library(도서관)의 합성어로 우아한테크코스 크루 박우빈(닉, @wbluke) 님께서 지어주신 소중한 이름입니다.
+> 테코브러리는 Woowahan Tech Course(우테코) 와 Library(도서관)의 합성어로 우아한테크코스 크루 [박우빈(닉)](https://github.com/wbluke/) 님께서 지어주신 소중한 이름입니다.
 
 ## 레포지토리 바로가기
 
