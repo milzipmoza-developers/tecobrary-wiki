@@ -24,6 +24,6 @@
 
 ## Wiki
 
-[바로가기](https://github.com/TheDevLuffy/tecobrary-wiki/wiki)
+[바로가기](https://github.com/milzipmoza-developers/tecobrary-wiki/wiki)
 
 README.md 에서 다루지 않는 내용이나 계획을 다룹니다.
