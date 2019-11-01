@@ -14,7 +14,11 @@
 
     * Flask 기반 희망 도서 신청, 신착 도서 알림 Slack 메시지를 보내는 어플리케이션 레포지토리 입니다.
 
-3. [/MrKwon/woowahan-library](https://github.com/MrKwon/woowahan-library)
+3. [/TheDevLuffy/tecobrary-express](https://github.com/TheDevLuffy/tecobrary-express.git)
+
+    * 4번의 레포지토리에서 분리된 Node Express 어플리케이션의 레포지토리 입니다. 
+
+4. [/MrKwon/woowahan-library](https://github.com/MrKwon/woowahan-library)
 
     * 프로젝트를 시작하면서 스프링 프레임워크로 리팩토링하기 전 까지 레포지토리 분리의 필요성을 느끼지 못해 user, admin(manager), server 를 동일한 레포지토리로 관리하였으나 Git 커밋을 더욱 세부적으로 기록하기 위해 레포지토리 분리를 하여 현재는 사용하지 않습니다.
 
